@@ -1,2 +1,0 @@
-# OnlineShoppingOrderSteps
-Created with CodeSandbox

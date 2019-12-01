@@ -1,0 +1,9 @@
+.App {
+  margin: 8% auto auto;
+  font-family: sans-serif;
+  width: 1000px;
+}
+
+.ui-input {
+  width: 200px;
+}
